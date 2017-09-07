@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/greendot.png</file>
+        <file>res/icons/icon.aps</file>
+        <file>res/icons/icon.ico</file>
+        <file>res/icons/icon.png</file>
+        <file>res/icons/icon.rc</file>
+        <file>res/icons/transparent.png</file>
+        <file>res/icons/yang-grey-alpha.png</file>
+    </qresource>
+</RCC>
